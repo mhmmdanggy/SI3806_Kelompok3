@@ -10,8 +10,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.irvansetiawan.indovent.activity_login">
-
+    tools:context="com.example.indovent.indovent2.Login">
 
     <ImageView
         android:src="@drawable/ticket"
@@ -54,7 +53,7 @@
         android:layout_height="30dp"
         android:inputType="textPersonName"
         android:hint="Username"
-        android:background="@color/transparent_white_percent_50"
+        android:background="#E0E0E0"
         android:textColorHint="@color/transparent_black_hex_9"
         android:ems="10"
         android:layout_marginTop="11dp"
@@ -81,7 +80,7 @@
         android:ems="10"
         android:id="@+id/Password"
         android:hint="Password"
-        android:background="@color/transparent_white_percent_50"
+        android:background="#E0E0E0"
         android:textColorHint="@color/transparent_black_hex_9"
         android:gravity="center"
         android:layout_marginTop="13dp"
@@ -94,7 +93,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button"
-        android:backgroundTint="@color/Columbia_Blue"
+        android:backgroundTint="#F4511E"
         android:layout_marginTop="16dp"
         android:layout_below="@+id/Password"
         android:layout_alignParentLeft="true"
@@ -133,11 +132,12 @@
         android:layout_width="wrap_content"
         android:textColor="@android:color/white"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2"
+        android:id="@+id/signup"
         android:layout_above="@+id/textView34"
         android:layout_toRightOf="@+id/google"
         android:layout_toEndOf="@+id/google"
-        android:layout_alignTop="@+id/textView"/>
+        android:layout_alignTop="@+id/textView"
+        android:autoLink="all"/>
 
     <TextView
         android:text="Don't have an account ?"
@@ -149,3 +149,4 @@
         android:layout_alignRight="@+id/textView34"
         android:layout_alignEnd="@+id/textView34"/>
 </RelativeLayout>
+
