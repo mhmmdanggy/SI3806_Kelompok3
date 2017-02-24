@@ -1,21 +1,22 @@
-package com.example.irvansetiawan.indovent;
+package com.example.indovent.indovent2;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.util.Linkify;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-
-
 public class Login extends AppCompatActivity {
 
     Button b1;
     EditText ed1, ed2;
     TextView tx1;
+    TextView signup;
 
     int counter = 3;
 
@@ -30,6 +31,8 @@ public class Login extends AppCompatActivity {
 
         tx1 = (TextView) findViewById(R.id.textView34);
         tx1.setVisibility(View.GONE);
+
+        signup = (TextView)findViewById(R.id.signup);
 
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -54,6 +57,19 @@ public class Login extends AppCompatActivity {
                 }
             }
         });
+
+
+        signup.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //Intent i = new Intent(getApplicationContext(),Register.class);
+                //startActivity(i);
+            }
+        });
+        signup.setAutoLinkMask(Linkify.ALL);
+
+
     }
 }
+
 
