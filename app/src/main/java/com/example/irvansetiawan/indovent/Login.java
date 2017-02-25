@@ -24,7 +24,7 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-
+        //
         b1 = (Button) findViewById(R.id.button);
         ed1 = (EditText) findViewById(R.id.Username);
         ed2 = (EditText) findViewById(R.id.Password);
