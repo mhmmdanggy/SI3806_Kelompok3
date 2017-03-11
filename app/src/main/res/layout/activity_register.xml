@@ -99,6 +99,16 @@
         android:backgroundTint="#F4511E"
         android:textColor="@color/transparent_white_percent_95"
         />
+    <Button
+        android:text="Account already exist login here"
+        android:onClick="regtosignin"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:background="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        />
 
 
 
