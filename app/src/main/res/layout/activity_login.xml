@@ -10,7 +10,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.indovent.indovent2.Login">
+    tools:context="com.example.indovent.SI3806_Kelompok3.Login">
 
     <ImageView
         android:src="@drawable/ticket"
