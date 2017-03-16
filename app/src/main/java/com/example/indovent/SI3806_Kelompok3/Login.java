@@ -16,6 +16,7 @@ public class Login extends Activity {
     EditText ed1, ed2;
     TextView tx1;
     TextView signup;
+    TextView forgotpas;
 
     int counter = 3;
 
@@ -32,6 +33,7 @@ public class Login extends Activity {
         tx1.setVisibility(View.GONE);
 
         signup = (TextView) findViewById(R.id.signup);
+        forgotpas = (TextView) findViewById(R.id.forgotpass);
 
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -60,6 +62,10 @@ public class Login extends Activity {
         public void signup(View view){
         Intent i = new Intent(getApplicationContext(), Register.class);
         startActivity(i);
+    }
+    public void forgotpas(View view){
+        Intent intent = new Intent(getApplicationContext(), forgot_password.class);
+        startActivity(intent);
     }
 }
 

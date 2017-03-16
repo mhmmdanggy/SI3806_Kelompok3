@@ -3,111 +3,102 @@
 
     <item
         is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_266dcaacea011ac7b018d9b311813634bae2a77a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_25dec394f893fb70d17d418ddf27edb7e0ca7641/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_a693cd94f05c5a91f47892ec7f5340c3b6b6dfa1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_c3accb69def420f522953da4d368117b9d3b883c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_553826ddc43f3777dc84e3d14b014fc85b2833f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/monyonk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_c13d85aa552b0b4f05104ed628792d27fa8bcec1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_adc4ea8753adc35de43f743a0191870612dc50fe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ac0df713b45c3d859af54b4e982281843bb20704">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_89784888a770fc1250c3c5d544e4b62b7b9286f2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\28f6f8566db1da77a1bdb57605984ba2613cc012\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_afcb3eec5aabe5d2edfe9f216aea7c65f7b2b211/classes.dex" />
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eca2920c90aa070e65f9c77041a0ee14a47423b5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\b89884cac32257cfa5b45f252cfff2d590d9c4aa\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_cccf943b277dd659936eebb2bcd3f59cda374ee5/classes.dex" />
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c80e47a676d390e22c91b21691ce757dea5131bd\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\6f4e52770724e2bbd24c688535bbda8b3e931b6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15dd444eefc684c365afc55063df5c9acc339dca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\84c5881268cdb96ee90ec10df2fd527686db5369\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_32dd79c2789471d450235cd1c529be8f86272322/classes.dex" />
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d3bb3fd8f3b4cad63033eeb0b4682c37708a83d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="D:\SI3806_Kelompok3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e6ba22f0eb59d326a2ba1d9d10f050caf6b58fae">
-        <dex dex="/Users/monyonk/Downloads/SI3806_Kelompok3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1a1afe4f1e9bd60027b65a3c93b6affee8849520/classes.dex" />
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5f76aebb4284e20d0c0ccfcaa571b74ce33b346c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\5a7b23ee50cedade080ff6544438a033ae323ade\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_feb9372e8588d13cabae3a25020cbed44eacfa9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\284f30d577c933e08a0a244b82cf385c7c95f162\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02ab20b13108d6c6bd106954635a62bce319b447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\4c05a2bc8a022db33bfe73d97c39d7f3efefd7ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f1a177512d3efd0b104724c2a727b2d8d54ba33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\b1df84b0e0ecceef9b025eb55ef962c35a5b0192\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf2f09568543fb43988bd4d076d06568ce942fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Irvan Setiawan\.android\build-cache\08c8789c98f9743cbf3775f533982b86d376d8c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16c9624d47603bcdfef7756bd95e4d64ac8573a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SI3806_Kelompok3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c85d865f40abd4aee4a9fda11ee3874cf70c5e56">
+        <dex dex="D:\SI3806_Kelompok3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a443dbadf6732829b69923d6879441db98d1d2cd\classes.dex" />
     </item>
 
 </items>
